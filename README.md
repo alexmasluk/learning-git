@@ -1,3 +1,2 @@
 # Learning Git
-Git is awesome
-Git is a distributed version control system
+Git is awesome and a distributed version control system
